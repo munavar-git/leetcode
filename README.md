@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/munavar-git/leetcode/tree/main/0190-reverse-bits/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/munavar-git/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
