@@ -46,10 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/munavar-git/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/munavar-git/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
