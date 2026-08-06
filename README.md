@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/munavar-git/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/munavar-git/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/munavar-git/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 <!---LeetCode Topics End-->
