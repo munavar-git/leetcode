@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/munavar-git/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/munavar-git/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/munavar-git/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/munavar-git/leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/munavar-git/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
