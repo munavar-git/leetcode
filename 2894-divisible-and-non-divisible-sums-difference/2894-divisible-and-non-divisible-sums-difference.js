@@ -4,12 +4,16 @@
  * @return {number}
  */
 var differenceOfSums = function(n, m) {
-    let arr=[];
+    let sumofnum=0
+    let sumofM=0
     for(let i=1;i<=n;i++){
-        arr.push(i)
+        if(i%m!=0){
+            sumofnum+=i
+        }
+        else {
+        sumofM+=i
+        }
     }
-let sumofnum=arr.filter(a=>a%m!==0).reduce((a,b)=>a+b,0)
-let sumof3=arr.filter(a=>a%m===0).reduce((a,b)=>a+b,0)
-return sumofnum-sumof3
+return sumofnum-sumofM
 
 };
