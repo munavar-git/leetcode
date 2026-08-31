@@ -8,7 +8,6 @@ var isThree = function(n) {
         if(n%i===0){
             count++
         }
-
     }
     return count===3
 };
