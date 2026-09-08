@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/munavar-git/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/munavar-git/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/munavar-git/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/munavar-git/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/munavar-git/leetcode/tree/main/0507-perfect-number/) | Easy |
@@ -130,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/munavar-git/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/munavar-git/leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
