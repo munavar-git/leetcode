@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/munavar-git/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/munavar-git/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munavar-git/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/munavar-git/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/munavar-git/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/munavar-git/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/munavar-git/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/munavar-git/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/munavar-git/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/munavar-git/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
