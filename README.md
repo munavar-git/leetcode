@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/munavar-git/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/munavar-git/leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/munavar-git/leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3516-find-closest-person](https://github.com/munavar-git/leetcode/tree/main/3516-find-closest-person/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
