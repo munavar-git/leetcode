@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/munavar-git/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/munavar-git/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munavar-git/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/munavar-git/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/munavar-git/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/munavar-git/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/munavar-git/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/munavar-git/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/munavar-git/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/munavar-git/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/munavar-git/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -157,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
