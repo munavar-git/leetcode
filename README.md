@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/munavar-git/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/munavar-git/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/munavar-git/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
