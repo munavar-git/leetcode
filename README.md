@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/munavar-git/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/munavar-git/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munavar-git/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/munavar-git/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/munavar-git/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/munavar-git/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/munavar-git/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/munavar-git/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/munavar-git/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
