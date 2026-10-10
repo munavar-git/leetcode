@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/munavar-git/leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/munavar-git/leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3516-find-closest-person](https://github.com/munavar-git/leetcode/tree/main/3516-find-closest-person/) | Easy |
+| [3959-check-good-integer](https://github.com/munavar-git/leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/munavar-git/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3959-check-good-integer](https://github.com/munavar-git/leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
