@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/munavar-git/leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/munavar-git/leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3516-find-closest-person](https://github.com/munavar-git/leetcode/tree/main/3516-find-closest-person/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/munavar-git/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3959-check-good-integer](https://github.com/munavar-git/leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-three-divisors](https://github.com/munavar-git/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/munavar-git/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/munavar-git/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/munavar-git/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
