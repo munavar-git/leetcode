@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/munavar-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/munavar-git/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/munavar-git/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/munavar-git/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/munavar-git/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/munavar-git/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/munavar-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/munavar-git/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/munavar-git/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Recursion
