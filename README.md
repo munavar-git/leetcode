@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/munavar-git/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/munavar-git/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/munavar-git/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/munavar-git/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/munavar-git/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Two Pointers
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/munavar-git/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/munavar-git/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/munavar-git/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/munavar-git/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2540-minimum-common-value](https://github.com/munavar-git/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
