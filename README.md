@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/munavar-git/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/munavar-git/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [3894-traffic-signal-color](https://github.com/munavar-git/leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3516-find-closest-person](https://github.com/munavar-git/leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/munavar-git/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munavar-git/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3894-traffic-signal-color](https://github.com/munavar-git/leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3959-check-good-integer](https://github.com/munavar-git/leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2974-minimum-number-game](https://github.com/munavar-git/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3894-traffic-signal-color](https://github.com/munavar-git/leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/munavar-git/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/munavar-git/leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Array
