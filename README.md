@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/munavar-git/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0268-missing-number](https://github.com/munavar-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/munavar-git/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0476-number-complement](https://github.com/munavar-git/leetcode/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/munavar-git/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Math
