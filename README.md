@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/munavar-git/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/munavar-git/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/munavar-git/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/munavar-git/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/munavar-git/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3894-traffic-signal-color](https://github.com/munavar-git/leetcode/tree/main/3894-traffic-signal-color/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/munavar-git/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/munavar-git/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/munavar-git/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/munavar-git/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## String Matching
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/munavar-git/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/munavar-git/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/munavar-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/munavar-git/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munavar-git/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/munavar-git/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/munavar-git/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
